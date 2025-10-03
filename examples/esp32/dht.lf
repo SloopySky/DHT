@@ -1,0 +1,6 @@
+[mapping:DHT]
+archive: libdht.a
+entries:
+   dht:dht_handle_data_line_edge (noflash)
+   dht:dht_notify_sequence_completed (noflash)
+
